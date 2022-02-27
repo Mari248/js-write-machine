@@ -1,4 +1,4 @@
-
+script.js
 # js-write-machine
 
 Javascript class to simulate a write machine effect
